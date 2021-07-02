@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-02T14:18:02.584Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="tovqJUQUpAlQF2TPWVPv" version="14.8.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-02T14:19:32.307Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="-P5XouzaklnXw7jLee5y" version="14.8.3" type="github">
   <diagram id="UalGF6HTqNYcCL9JvWQx" name="Page-1">
     <mxGraphModel dx="2272" dy="737" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -149,10 +149,10 @@
           <mxGeometry x="756" y="300" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="_U2JmgjhUbk7W6QOug7I-2" value="&lt;b&gt;Application Architecture Diagram&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="322" y="820" width="208" height="30" as="geometry" />
+          <mxGeometry x="360" y="820" width="208" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_U2JmgjhUbk7W6QOug7I-3" value="Kubernetes Cluster&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="360" y="760" width="115" height="20" as="geometry" />
+          <mxGeometry x="390" y="760" width="115" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
