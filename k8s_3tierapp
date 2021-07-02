@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-02T11:17:57.634Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="7hjp6-IOZu6zPZj7A424" version="14.8.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-02T14:13:43.569Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="Tr5QdvF-URJejgqK7fJf" version="14.8.3" type="github">
   <diagram id="UalGF6HTqNYcCL9JvWQx" name="Page-1">
     <mxGraphModel dx="2272" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -106,10 +106,10 @@
         <mxCell id="ZB8LgTWzvfzqPlGgRF14-107" value="Ingress&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="160" y="660" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="ZB8LgTWzvfzqPlGgRF14-108" value="frontend deployment" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="310" y="234" width="40" height="20" as="geometry" />
+        <mxCell id="ZB8LgTWzvfzqPlGgRF14-108" value="Frontend Deployment" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="322" y="242" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="ZB8LgTWzvfzqPlGgRF14-109" value="Backend deployment" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="ZB8LgTWzvfzqPlGgRF14-109" value="Backend Deployment" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="532.5" y="346" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ZB8LgTWzvfzqPlGgRF14-112" value="User" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
@@ -148,11 +148,11 @@
         <mxCell id="ZB8LgTWzvfzqPlGgRF14-141" value="Mysql Deployment" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="756" y="300" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="_U2JmgjhUbk7W6QOug7I-2" value="Application Architecture Diagram&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="400" y="820" width="40" height="20" as="geometry" />
+        <mxCell id="_U2JmgjhUbk7W6QOug7I-2" value="&lt;b&gt;Application Architecture Diagram&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="322" y="820" width="208" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_U2JmgjhUbk7W6QOug7I-3" value="Kubernetes Cluster&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="405" y="760" width="40" height="20" as="geometry" />
+          <mxGeometry x="360" y="760" width="115" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
